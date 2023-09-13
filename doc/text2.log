@@ -5,3 +5,4 @@ add some content in branch
 add some content in chch2
 config
 cat
+git cat-file -p
