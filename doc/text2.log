@@ -2,7 +2,11 @@ test log
 add some content
 
 add some content in branch
+
 add some content in chch2
 config
 cat
 git cat-file -p
+
+some content in chch
+some content in chch again
